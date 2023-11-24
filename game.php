@@ -45,7 +45,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>ragini kumari ef910046</title>
+<title>ef910046</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
